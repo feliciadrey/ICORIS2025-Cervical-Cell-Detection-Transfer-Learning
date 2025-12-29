@@ -1,6 +1,7 @@
 # Enhanced Cervical Cancer Cell Detection Using CNN Transfer Learning with Strategic Layer Freezing
 
-This repository accompanies the ICORIS 2025 paper **“Enhanced Cervical Cancer Cell Detection Using CNN Transfer Learning with Strategic Layer Freezing”**. The study evaluates how transfer learning and selective layer freezing impact cervical cell classification performance on the SIPaKMeD dataset.
+This repository accompanies the peer-reviewed paper “Enhanced Cervical Cancer Cell Detection Using CNN Transfer Learning with Strategic Layer Freezing”, accepted and presented at 2025 7th International Conference on Cybernetics and Intelligent System (ICORIS) and published on IEEE Xplore. The published version is available via IEEE:
+https://ieeexplore.ieee.org/document/11295992
 
 ## Project Overview
 - Task: 5-class single-cell cervical cytology classification (superficial–intermediate, parabasal, koilocytotic, dyskeratotic, metaplastic).  
